@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Vinicius Capozzi Carvajal Gomes</h1>
-<h3 align="center">Há 4 anos desenvolvo projetos de BI/Análise de dados utilizando Power BI, Grafana, Python, R, SQL e Excel para facilitar o entendimento dos diversos dados gerados pelas atividades empresarias. Também possuo experiência com automatização de processos e de consultas de dados (web scraping) utilizando Python. Tenho interesse em trabalhar em áreas que envolvam finanças empresariais, BI e análise de dados no "geral".</h3>
+<h3 align="center">Há 4 anos desenvolvo projetos de BI/Análise de dados utilizando Power BI, Qlik Sense, Tableau, Grafana, Python, R, SQL e Excel para facilitar o entendimento dos diversos dados gerados pelas atividades empresarias. Também possuo experiência com automatização de processos e de consultas de dados (web scraping) utilizando Python. Tenho interesse em trabalhar em áreas que envolvam finanças empresariais, BI e análise de dados no "geral".</h3>
 
 - 💬 Posso conhecimento em: **Python, SQL, Power BI, Grafana e R.**
 
